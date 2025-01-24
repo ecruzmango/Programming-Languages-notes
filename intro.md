@@ -65,3 +65,48 @@ definition of functions.
 * It was human-readable (arguably). It was strictly imperative. You told the computer how to calculate something.
 
 ### "Coding":
+
+
+### C# [created in 2000] 
+Attributes:
+
+o compiled
+
+o object-oriented
+
+o virtual machine (.NET)
+
+o procedural (imperative)
+
+* Emphasizes rapid and large-scale development
+*  C# is fully portable now
+
+o MSFT supports Mac and Linux via "dotnet"
+
+o Third-party Mono
+
+
+### Haskell (.hs) [created in 1989]
+Attributes:
+
+o purely functional
+
+o compiled
+
+* Emphasizes reliability and bug reduction at time of writing code
+
+### Rust (.rs) [created in 2010]
+Attributes:
+
+• compiled (has an interpreted option)
+
+o blended: imperative and/or functional
+
+Systems language:
+
+• Emphasizes safety
+
+• Ensures your memory is valid when it is accessed
+
+• Has an unsafe mode, where YOU enforce safety/compliance.
+
