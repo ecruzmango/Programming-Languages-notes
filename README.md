@@ -2,6 +2,8 @@
 
 # Languages
 1. C#
-2. HaskShell
+2. Haskell
 3. Rust
    
+# Introduction to Programming Languages
+
